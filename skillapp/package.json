@@ -17,5 +17,11 @@
         "laravel-mix": "^1.0",
         "lodash": "^4.17.4",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "@riophae/vue-treeselect": "0.0.16",
+        "vue-rate": "^2.0.0",
+        "vue-star-rating": "^1.5.1",
+        "vue-swal": "^0.1.0"
     }
 }
